@@ -4,7 +4,6 @@ import java.util.*;
 
 public class BisiestosTest
 {
-	private int a;
 	
 	// BLOQUE 1 -->
 					// B1_1: La entrada es un int negativo
